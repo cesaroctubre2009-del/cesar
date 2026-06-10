@@ -46,3 +46,4 @@ Guardar el archivo.
 Añadir cambios:
 
 /Images/conflicto 1.jpg
+

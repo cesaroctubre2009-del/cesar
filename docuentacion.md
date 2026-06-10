@@ -45,5 +45,5 @@ Elegir qué cambios conservar.
 Guardar el archivo.
 Añadir cambios:
 
-cesar/Images/conflicto 1.jpg
+Images/conflicto.jpg
 
